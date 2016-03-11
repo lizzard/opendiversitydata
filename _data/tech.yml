@@ -45,8 +45,14 @@ companies:
     status: Yes
 
   - name: Mozilla
-    url: http://www.mozilla.org
+    url: https://www.mozilla.org/en-US/foundation/moco 
     twitter: Mozilla
+    img: firefoxlogo.png
+    diversitydata: Yes
+    eeo-1: Yes
+    documentation: https://static.mozilla.com/moco/en-US/pdf/Mozilla-2015-E    E0-1.pdf
+    date-updated: 2015
+    status: Yes
 
   - name: Amazon
     url: https://www.amazon.com/
